@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/btn_middle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Middle"/>
+
+
+    <Button
+        android:id="@+id/btn_last"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last"/>
+
+    <Button
+        android:id="@+id/btn_last_hide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last Hide"/>
+
+    <Button
+    android:id="@+id/btn_middle_hide"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Middle Hide"/>
+
+
+    <Button
+        android:id="@+id/btn_last_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last show"/>
+
+    <Button
+        android:id="@+id/btn_middle_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Middle show"/>
+
+
+    <Button
+        android:id="@+id/btn_last_remove"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last remove"/>
+
+    <Button
+        android:id="@+id/btn_middle_remove"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Middle remove"/>
+
+
+
+</LinearLayout>
